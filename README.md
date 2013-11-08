@@ -1,4 +1,0 @@
-website
-=======
-
-marcel-huber.ch
